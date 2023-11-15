@@ -1,0 +1,69 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7a4a225426f156d3f765aed184d4c71a0081099b88c115ebf3588220ebe86be5"
+    }
+  ],
+  "containerPath" : "/Users/akshilshah/Unreal Projects/MidtermAssignment/MidtermAssignment_IOS.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/akshilshah/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/akshilshah/Library/Developer/Xcode/DerivedData/MidtermAssignment_IOS-bbtqmpjimtaanufgrzirhmxaltjs/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/akshilshah/Library/Developer/Xcode/DerivedData/MidtermAssignment_IOS-bbtqmpjimtaanufgrzirhmxaltjs/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Development",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "iPhone Developer: Akshil Shah (47MQU446W6)",
+          "PROVISIONING_PROFILE_SPECIFIER" : "1c1c3445-6ead-4ef2-a7e7-4eefefa51309",
+          "SDKROOT" : "iphoneos16.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

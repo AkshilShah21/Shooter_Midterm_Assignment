@@ -1,0 +1,9 @@
+{
+	"Targets": [
+		{
+			"Name": "MidtermAssignment",
+			"Path": "/Users/akshilshah/Unreal Projects/MidtermAssignment/Intermediate/Source/MidtermAssignment.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
